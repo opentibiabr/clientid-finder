@@ -1,5 +1,299 @@
 [
   {
+    "client_id" : null,
+    "name" : "vial of lifefluid",
+    "type" : "Liquids",
+    "version" : "Pre-6.0"
+  },
+  {
+    "client_id" : null,
+    "name" : "vial of manafluid",
+    "type" : "Liquids",
+    "version" : "Pre-6.0"
+  },
+  {
+    "client_id" : null,
+    "name" : "vial of beer",
+    "type" : "Liquids",
+    "version" : "?"
+  },
+  {
+    "client_id" : null,
+    "name" : "vial of blood",
+    "type" : "Liquids",
+    "version" : "?"
+  },
+  {
+    "client_id" : null,
+    "name" : "vial of slime",
+    "type" : "Liquids",
+    "version" : "?"
+  },
+  {
+    "client_id" : null,
+    "name" : "vial of wine",
+    "type" : "Liquids",
+    "version" : "?"
+  },
+  {
+    "client_id" : null,
+    "name" : "vial of lemonade",
+    "type" : "Liquids",
+    "version" : "?"
+  },
+  {
+    "client_id" : null,
+    "name" : "vial of milk",
+    "type" : "Liquids",
+    "version" : "?"
+  },
+  {
+    "client_id" : null,
+    "name" : "vial of mud",
+    "type" : "Liquids",
+    "version" : "?"
+  },
+  {
+    "client_id" : null,
+    "name" : "vial of oil",
+    "type" : "Liquids",
+    "version" : "?"
+  },
+  {
+    "client_id" : null,
+    "name" : "vial of urine",
+    "type" : "Liquids",
+    "version" : "?"
+  },
+  {
+    "client_id" : null,
+    "name" : "vial of water",
+    "type" : "Liquids",
+    "version" : "?"
+  },
+  {
+    "client_id" : null,
+    "name" : "vial of ink",
+    "type" : "Liquids",
+    "version" : "12.20"
+  },
+  {
+    "client_id" : null,
+    "name" : "vial of rum",
+    "type" : "Liquids",
+    "version" : "7.8"
+  },
+  {
+    "client_id" : null,
+    "name" : "vial of fruit juice",
+    "type" : "Liquids",
+    "version" : "7.8"
+  },
+  {
+    "client_id" : null,
+    "name" : "vial of coconut milk",
+    "type" : "Liquids",
+    "version" : "7.8"
+  },
+  {
+    "client_id" : null,
+    "name" : "vial of tea",
+    "type" : "Liquids",
+    "version" : "8.0"
+  },
+  {
+    "client_id" : null,
+    "name" : "vial of mead",
+    "type" : "Liquids",
+    "version" : "8.0"
+  },
+  {
+    "client_id" : null,
+    "name" : "golden goblet",
+    "type" : "Decorations",
+    "version" : "9.44"
+  },
+  {
+    "client_id" : null,
+    "name" : "cuirass",
+    "type" : "Armors",
+    "version" : "10.90"
+  },
+  {
+    "client_id" : null,
+    "name" : "hauberk",
+    "type" : "Armors",
+    "version" : "10.90"
+  },
+  {
+    "client_id" : null,
+    "name" : "cow bell",
+    "type" : "Creature Products",
+    "version" : "12.20.9066"
+  },
+  {
+    "client_id" : null,
+    "name" : "lederhosen",
+    "type" : "?",
+    "version" : "?"
+  },
+  {
+    "client_id" : null,
+    "name" : "decorative green sheet",
+    "type" : "Taming Items",
+    "version" : "12.20.9066"
+  },
+  {
+    "client_id" : null,
+    "name" : "decorative red sheet",
+    "type" : "Taming Items",
+    "version" : "12.20.9066"
+  },
+  {
+    "client_id" : null,
+    "name" : "decorative blue sheet",
+    "type" : "Taming Items",
+    "version" : "12.20.9066"
+  },
+  {
+    "client_id" : null,
+    "name" : "veal",
+    "type" : "Food",
+    "version" : "12.20.9066"
+  },
+  {
+    "client_id" : null,
+    "name" : "milk churn",
+    "type" : "Creature Products",
+    "version" : "12.20.9066"
+  },
+  {
+    "client_id" : null,
+    "name" : "filled milk churn",
+    "type" : "Food",
+    "version" : "12.20.9066"
+  },
+  {
+    "client_id" : null,
+    "name" : "meat hammer",
+    "type" : "Club Weapons",
+    "version" : "12.20.9066"
+  },
+  {
+    "client_id" : null,
+    "name" : "beer tap",
+    "type" : "Tools",
+    "version" : "12.20.9066"
+  },
+  {
+    "client_id" : null,
+    "name" : "leberkassemmel",
+    "type" : "Food",
+    "version" : "12.20.9066"
+  },
+  {
+    "client_id" : null,
+    "name" : "lot",
+    "type" : "Documents and Papers",
+    "version" : "?"
+  },
+  {
+    "client_id" : null,
+    "name" : "hauberk",
+    "type" : "Armors",
+    "version" : "10.90"
+  },
+  {
+    "client_id" : null,
+    "name" : "cuirass",
+    "type" : "Armors",
+    "version" : "10.90"
+  },
+  {
+    "client_id" : null,
+    "name" : "cuirass",
+    "type" : "Armors",
+    "version" : "10.90"
+  },
+  {
+    "client_id" : null,
+    "name" : "ice chandelier",
+    "type" : "Decorations",
+    "version" : "12.30.9327"
+  },
+  {
+    "client_id" : null,
+    "name" : "ferumbras snowman",
+    "type" : "Decorations",
+    "version" : "12.30.9327"
+  },
+  {
+    "client_id" : null,
+    "name" : "ice cabinet",
+    "type" : "Furniture",
+    "version" : "12.30.9327"
+  },
+  {
+    "client_id" : null,
+    "name" : "ice table",
+    "type" : "Furniture",
+    "version" : "12.30.9327"
+  },
+  {
+    "client_id" : null,
+    "name" : "ice stool",
+    "type" : "Furniture",
+    "version" : "12.30.9327"
+  },
+  {
+    "client_id" : null,
+    "name" : "ice chest",
+    "type" : "Furniture",
+    "version" : "12.30.9327"
+  },
+  {
+    "client_id" : null,
+    "name" : "dead snake",
+    "type" : "Corpses",
+    "version" : "Pre-6.0"
+  },
+  {
+    "client_id" : null,
+    "name" : "dead frog",
+    "type" : "Corpses",
+    "version" : "Pre-6.0"
+  },
+  {
+    "client_id" : null,
+    "name" : "wall lamp kit",
+    "type" : "Furniture",
+    "version" : "12.30.9367"
+  },
+  {
+    "client_id" : null,
+    "name" : "torch bearer kit",
+    "type" : "Furniture",
+    "version" : "12.30.9367"
+  },
+  {
+    "client_id" : null,
+    "name" : "wall candle kit",
+    "type" : "Furniture",
+    "version" : "12.30.9367"
+  },
+  {
+    "client_id" : null,
+    "name" : "wall lamp kit",
+    "type" : "Furniture",
+    "version" : "12.30.9367"
+  },
+  {
+    "client_id" : null,
+    "name" : "love elixir",
+    "type" : "Fansite Items",
+    "version" : null
+  },
+  {
     "client_id" : 102,
     "name" : "white flower",
     "type" : "Quest Items",
@@ -27,7 +321,7 @@
     "client_id" : 113,
     "name" : "the dwarven emperor's beard",
     "type" : "Quest Items",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 117,
@@ -411,7 +705,7 @@
     "client_id" : 402,
     "name" : "secret letter",
     "type" : "Documents and Papers",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 403,
@@ -465,13 +759,13 @@
     "client_id" : 641,
     "name" : "piece of paper",
     "type" : "Documents and Papers",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 642,
     "name" : "piece of paper",
     "type" : "Documents and Papers",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 643,
@@ -513,7 +807,7 @@
     "client_id" : 649,
     "name" : "flower bouquet",
     "type" : "Plants and Herbs",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 650,
@@ -1131,7 +1425,7 @@
     "client_id" : 841,
     "name" : "peanut",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 860,
@@ -1227,7 +1521,7 @@
     "client_id" : 904,
     "name" : "throwing cake",
     "type" : "Distance Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 906,
@@ -1275,7 +1569,7 @@
     "client_id" : 943,
     "name" : "holy soil",
     "type" : "Magical Items",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 944,
@@ -1323,31 +1617,31 @@
     "client_id" : 1780,
     "name" : "stone",
     "type" : "Metals",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 1781,
     "name" : "small stone",
     "type" : "Distance Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2025,
     "name" : "statue",
     "type" : "Decorations",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2029,
     "name" : "minotaur statue",
     "type" : "Decorations",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2030,
     "name" : "goblin statue",
     "type" : "Decorations",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2314,
@@ -1551,7 +1845,7 @@
     "client_id" : 2431,
     "name" : "chest of drawers",
     "type" : "Furniture",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2441,
@@ -1587,7 +1881,7 @@
     "client_id" : 2463,
     "name" : "small bamboo shelf",
     "type" : "Furniture",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2465,
@@ -1599,7 +1893,7 @@
     "client_id" : 2469,
     "name" : "box",
     "type" : "Containers",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2471,
@@ -1617,7 +1911,7 @@
     "client_id" : 2473,
     "name" : "box",
     "type" : "Containers",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2478,
@@ -1629,13 +1923,13 @@
     "client_id" : 2483,
     "name" : "large trunk",
     "type" : "Containers",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2519,
     "name" : "barrel",
     "type" : "Containers",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2523,
@@ -1647,7 +1941,7 @@
     "client_id" : 2524,
     "name" : "trough",
     "type" : "Fluid Containers",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2535,
@@ -1983,73 +2277,73 @@
     "client_id" : 2814,
     "name" : "parchment",
     "type" : "Documents and Papers",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2815,
     "name" : "scroll",
     "type" : "Documents and Papers",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2816,
     "name" : "book",
     "type" : "Books",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2817,
     "name" : "blank parchment",
     "type" : "Documents and Papers",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2818,
     "name" : "document",
     "type" : "Documents and Papers",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2820,
     "name" : "sheet of paper",
     "type" : "Documents and Papers",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2821,
     "name" : "book",
     "type" : "Books",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2822,
     "name" : "map",
     "type" : "Documents and Papers",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2823,
     "name" : "map",
     "type" : "Documents and Papers",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2824,
     "name" : "book",
     "type" : "Books",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2825,
     "name" : "book",
     "type" : "Books",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2826,
     "name" : "book",
     "type" : "Books",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2827,
@@ -2061,31 +2355,31 @@
     "client_id" : 2828,
     "name" : "book",
     "type" : "Books",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2829,
     "name" : "book",
     "type" : "Books",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2830,
     "name" : "book",
     "type" : "Books",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2831,
     "name" : "book",
     "type" : "Books",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2832,
     "name" : "book",
     "type" : "Books",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2833,
@@ -2115,37 +2409,37 @@
     "client_id" : 2842,
     "name" : "book",
     "type" : "Books",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2848,
     "name" : "purple tome",
     "type" : "Books",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2849,
     "name" : "green tome",
     "type" : "Books",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2850,
     "name" : "blue tome",
     "type" : "Books",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2851,
     "name" : "grey tome",
     "type" : "Books",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2852,
     "name" : "red tome",
     "type" : "Books",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2853,
@@ -2163,13 +2457,13 @@
     "client_id" : 2855,
     "name" : "basket",
     "type" : "Containers",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2856,
     "name" : "present",
     "type" : "Containers",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2857,
@@ -2271,7 +2565,7 @@
     "client_id" : 2873,
     "name" : "bucket",
     "type" : "Fluid Containers",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2874,
@@ -2289,37 +2583,37 @@
     "client_id" : 2876,
     "name" : "vase",
     "type" : "Fluid Containers",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2877,
     "name" : "green flask",
     "type" : "Fluid Containers",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2879,
     "name" : "elven vase",
     "type" : "Fluid Containers",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2880,
     "name" : "mug",
     "type" : "Kitchen Tools",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2881,
     "name" : "cup",
     "type" : "Kitchen Tools",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2882,
     "name" : "jug",
     "type" : "Kitchen Tools",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2883,
@@ -2337,13 +2631,13 @@
     "client_id" : 2885,
     "name" : "brown flask",
     "type" : "Fluid Containers",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2892,
     "name" : "broken bottle",
     "type" : "Rubbish",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2893,
@@ -2355,25 +2649,25 @@
     "client_id" : 2894,
     "name" : "broken brown glass",
     "type" : "Rubbish",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2901,
     "name" : "waterskin",
     "type" : "Fluid Containers",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2902,
     "name" : "bowl",
     "type" : "Kitchen Tools",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2903,
     "name" : "golden mug",
     "type" : "Fluid Containers",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2904,
@@ -2385,13 +2679,13 @@
     "client_id" : 2905,
     "name" : "plate",
     "type" : "Kitchen Tools",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2906,
     "name" : "watch",
     "type" : "Tools",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2911,
@@ -2409,7 +2703,7 @@
     "client_id" : 2913,
     "name" : "used candelabrum",
     "type" : "Rubbish",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2914,
@@ -2421,13 +2715,13 @@
     "client_id" : 2917,
     "name" : "candlestick",
     "type" : "Light Sources",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2919,
     "name" : "used candlestick",
     "type" : "Rubbish",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2920,
@@ -2457,19 +2751,19 @@
     "client_id" : 2948,
     "name" : "wooden flute",
     "type" : "Musical Instruments",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2949,
     "name" : "lyre",
     "type" : "Musical Instruments",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2950,
     "name" : "lute",
     "type" : "Musical Instruments",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2951,
@@ -2481,31 +2775,31 @@
     "client_id" : 2952,
     "name" : "drum",
     "type" : "Musical Instruments",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2953,
     "name" : "panpipes",
     "type" : "Musical Instruments",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2954,
     "name" : "simple fanfare",
     "type" : "Musical Instruments",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2955,
     "name" : "fanfare",
     "type" : "Musical Instruments",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2956,
     "name" : "royal fanfare",
     "type" : "Musical Instruments",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2957,
@@ -2553,25 +2847,25 @@
     "client_id" : 2968,
     "name" : "wooden key",
     "type" : "Keys",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2969,
     "name" : "silver key",
     "type" : "Keys",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2970,
     "name" : "copper key",
     "type" : "Keys",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2971,
     "name" : "crystal key",
     "type" : "Keys",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2972,
@@ -2583,7 +2877,7 @@
     "client_id" : 2973,
     "name" : "bone key",
     "type" : "Keys",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2974,
@@ -2631,13 +2925,13 @@
     "client_id" : 2981,
     "name" : "god flowers",
     "type" : "Plants and Herbs",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2982,
     "name" : "indoor plant",
     "type" : "Plants and Herbs",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2983,
@@ -2655,13 +2949,13 @@
     "client_id" : 2985,
     "name" : "potted flower",
     "type" : "Plants and Herbs",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2986,
     "name" : "christmas tree",
     "type" : "Decorations",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2987,
@@ -2679,37 +2973,37 @@
     "client_id" : 2989,
     "name" : "wooden doll",
     "type" : "Dolls and Bears",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2990,
     "name" : "football",
     "type" : "Game Tokens",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2991,
     "name" : "doll",
     "type" : "Dolls and Bears",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2992,
     "name" : "snowball",
     "type" : "Distance Weapons",
-    "version" : null
+    "version" : "6.5"
   },
   {
     "client_id" : 2993,
     "name" : "teddy bear",
     "type" : "Dolls and Bears",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2994,
     "name" : "model ship",
     "type" : "Decorations",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 2995,
@@ -2757,79 +3051,79 @@
     "client_id" : 3005,
     "name" : "elven brooch",
     "type" : "Decorations",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3006,
     "name" : "ring of the sky",
     "type" : "Rings",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3007,
     "name" : "crystal ring",
     "type" : "Rings",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3008,
     "name" : "crystal necklace",
     "type" : "Amulets and Necklaces",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3009,
     "name" : "bronze necklace",
     "type" : "Amulets and Necklaces",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3010,
     "name" : "emerald bangle",
     "type" : "Valuables",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3011,
     "name" : "crown",
     "type" : "Helmets",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3012,
     "name" : "wolf tooth chain",
     "type" : "Amulets and Necklaces",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3013,
     "name" : "golden amulet",
     "type" : "Amulets and Necklaces",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3014,
     "name" : "star amulet",
     "type" : "Amulets and Necklaces",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3015,
     "name" : "silver necklace",
     "type" : "Amulets and Necklaces",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3016,
     "name" : "ruby necklace",
     "type" : "Amulets and Necklaces",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3017,
     "name" : "silver brooch",
     "type" : "Valuables",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3018,
@@ -2883,31 +3177,31 @@
     "client_id" : 3026,
     "name" : "white pearl",
     "type" : "Valuables",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3027,
     "name" : "black pearl",
     "type" : "Valuables",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3028,
     "name" : "small diamond",
     "type" : "Valuables",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3029,
     "name" : "small sapphire",
     "type" : "Valuables",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3030,
     "name" : "small ruby",
     "type" : "Valuables",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3031,
@@ -2919,13 +3213,13 @@
     "client_id" : 3032,
     "name" : "small emerald",
     "type" : "Valuables",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3033,
     "name" : "small amethyst",
     "type" : "Valuables",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3034,
@@ -2943,25 +3237,25 @@
     "client_id" : 3036,
     "name" : "violet gem",
     "type" : "Valuables",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3037,
     "name" : "yellow gem",
     "type" : "Valuables",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3038,
     "name" : "green gem",
     "type" : "Valuables",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3039,
     "name" : "red gem",
     "type" : "Valuables",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3040,
@@ -2973,7 +3267,7 @@
     "client_id" : 3041,
     "name" : "blue gem",
     "type" : "Valuables",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3042,
@@ -2997,73 +3291,73 @@
     "client_id" : 3045,
     "name" : "strange talisman",
     "type" : "Amulets and Necklaces",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3046,
     "name" : "magic light wand",
     "type" : "Light Sources",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3047,
     "name" : "magic light wand",
     "type" : "Light Sources",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3048,
     "name" : "might ring",
     "type" : "Rings",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3049,
     "name" : "stealth ring",
     "type" : "Rings",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3050,
     "name" : "power ring",
     "type" : "Rings",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3051,
     "name" : "energy ring",
     "type" : "Rings",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3052,
     "name" : "life ring",
     "type" : "Rings",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3053,
     "name" : "time ring",
     "type" : "Rings",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3054,
     "name" : "silver amulet",
     "type" : "Amulets and Necklaces",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3055,
     "name" : "platinum amulet",
     "type" : "Amulets and Necklaces",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3056,
     "name" : "bronze amulet",
     "type" : "Amulets and Necklaces",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3057,
@@ -3075,37 +3369,37 @@
     "client_id" : 3058,
     "name" : "strange symbol",
     "type" : "Creature Products",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3059,
     "name" : "spellbook",
     "type" : "Spellbooks",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3060,
     "name" : "orb",
     "type" : "Magical Items",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3061,
     "name" : "life crystal",
     "type" : "Magical Items",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3062,
     "name" : "mind stone",
     "type" : "Magical Items",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3063,
     "name" : "gold ring",
     "type" : "Rings",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3065,
@@ -3129,7 +3423,7 @@
     "client_id" : 3068,
     "name" : "crystal wand",
     "type" : "Valuables",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3069,
@@ -3177,19 +3471,19 @@
     "client_id" : 3076,
     "name" : "crystal ball",
     "type" : "Magical Items",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3077,
     "name" : "ankh",
     "type" : "Magical Items",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3078,
     "name" : "mysterious fetish",
     "type" : "Dolls and Bears",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3079,
@@ -3285,133 +3579,133 @@
     "client_id" : 3104,
     "name" : "banana skin",
     "type" : "Rubbish",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3105,
     "name" : "dirty fur",
     "type" : "Rubbish",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3106,
     "name" : "old twig",
     "type" : "Rubbish",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3107,
     "name" : "some wood",
     "type" : "Rubbish",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3110,
     "name" : "piece of iron",
     "type" : "Metals",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3111,
     "name" : "fishbone",
     "type" : "Rubbish",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3112,
     "name" : "rotten meat",
     "type" : "Rubbish",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3113,
     "name" : "broken pottery",
     "type" : "Rubbish",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3114,
     "name" : "skull",
     "type" : "Rubbish",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3115,
     "name" : "bone",
     "type" : "Rubbish",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3115,
     "name" : "big bone",
     "type" : "Rubbish",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3117,
     "name" : "broken flask",
     "type" : "Rubbish",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3118,
     "name" : "broken green glass",
     "type" : "Rubbish",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3119,
     "name" : "broken sword",
     "type" : "Rubbish",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3120,
     "name" : "mouldy cheese",
     "type" : "Rubbish",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3121,
     "name" : "torn book",
     "type" : "Rubbish",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3122,
     "name" : "dirty cape",
     "type" : "Rubbish",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3123,
     "name" : "worn leather boots",
     "type" : "Rubbish",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3124,
     "name" : "burnt scroll",
     "type" : "Rubbish",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3125,
     "name" : "remains of a fish",
     "type" : "Rubbish",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3129,
     "name" : "some leaves",
     "type" : "Rubbish",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3130,
     "name" : "twigs",
     "type" : "Rubbish",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3135,
@@ -3429,31 +3723,31 @@
     "client_id" : 3147,
     "name" : "blank rune",
     "type" : "Magical Items",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3148,
     "name" : "destroy field rune",
     "type" : "Support Runes",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3149,
     "name" : "energy bomb rune",
     "type" : "Attack Runes",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3152,
     "name" : "intense healing rune",
     "type" : "Healing Runes",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3153,
     "name" : "cure poison rune",
     "type" : "Healing Runes",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3155,
@@ -3465,7 +3759,7 @@
     "client_id" : 3156,
     "name" : "wild growth rune",
     "type" : "Attack Runes",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3158,
@@ -3477,7 +3771,7 @@
     "client_id" : 3160,
     "name" : "ultimate healing rune",
     "type" : "Healing Runes",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3161,
@@ -3489,73 +3783,73 @@
     "client_id" : 3164,
     "name" : "energy field rune",
     "type" : "Attack Runes",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3165,
     "name" : "paralyse rune",
     "type" : "Attack Runes",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3166,
     "name" : "energy wall rune",
     "type" : "Attack Runes",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3172,
     "name" : "poison field rune",
     "type" : "Attack Runes",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3173,
     "name" : "poison bomb rune",
     "type" : "Attack Runes",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3174,
     "name" : "light magic missile rune",
     "type" : "Attack Runes",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3175,
     "name" : "stone shower rune",
     "type" : "Attack Runes",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3176,
     "name" : "poison wall rune",
     "type" : "Attack Runes",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3177,
     "name" : "convince creature rune",
     "type" : "Support Runes",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3178,
     "name" : "chameleon rune",
     "type" : "Support Runes",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3179,
     "name" : "stalagmite rune",
     "type" : "Attack Runes",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3180,
     "name" : "magic wall rune",
     "type" : "Attack Runes",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3182,
@@ -3567,67 +3861,67 @@
     "client_id" : 3188,
     "name" : "fire field rune",
     "type" : "Attack Runes",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3189,
     "name" : "fireball rune",
     "type" : "Attack Runes",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3190,
     "name" : "fire wall rune",
     "type" : "Attack Runes",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3191,
     "name" : "great fireball rune",
     "type" : "Attack Runes",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3192,
     "name" : "fire bomb rune",
     "type" : "Attack Runes",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3195,
     "name" : "soulfire rune",
     "type" : "Attack Runes",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3197,
     "name" : "disintegrate rune",
     "type" : "Support Runes",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3198,
     "name" : "heavy magic missile rune",
     "type" : "Attack Runes",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3200,
     "name" : "explosion rune",
     "type" : "Attack Runes",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3202,
     "name" : "thunderstorm rune",
     "type" : "Attack Runes",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3203,
     "name" : "animate dead rune",
     "type" : "Support Runes",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3205,
@@ -3861,7 +4155,7 @@
     "client_id" : 3244,
     "name" : "old and used backpack",
     "type" : "Containers",
-    "version" : null
+    "version" : "7.5"
   },
   {
     "client_id" : 3245,
@@ -3921,43 +4215,43 @@
     "client_id" : 3264,
     "name" : "sword",
     "type" : "Sword Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3265,
     "name" : "two handed sword",
     "type" : "Sword Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3266,
     "name" : "battle axe",
     "type" : "Axe Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3267,
     "name" : "dagger",
     "type" : "Sword Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3268,
     "name" : "hand axe",
     "type" : "Axe Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3269,
     "name" : "halberd",
     "type" : "Axe Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3270,
     "name" : "club",
     "type" : "Club Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3271,
@@ -3975,13 +4269,13 @@
     "client_id" : 3273,
     "name" : "sabre",
     "type" : "Sword Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3274,
     "name" : "axe",
     "type" : "Axe Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3275,
@@ -3993,7 +4287,7 @@
     "client_id" : 3276,
     "name" : "hatchet",
     "type" : "Axe Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3277,
@@ -4023,7 +4317,7 @@
     "client_id" : 3281,
     "name" : "giant sword",
     "type" : "Sword Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3282,
@@ -4035,31 +4329,31 @@
     "client_id" : 3283,
     "name" : "carlin sword",
     "type" : "Sword Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3284,
     "name" : "ice rapier",
     "type" : "Sword Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3285,
     "name" : "longsword",
     "type" : "Sword Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3286,
     "name" : "mace",
     "type" : "Club Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3287,
     "name" : "throwing star",
     "type" : "Distance Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3288,
@@ -4071,31 +4365,31 @@
     "client_id" : 3289,
     "name" : "staff",
     "type" : "Club Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3290,
     "name" : "silver dagger",
     "type" : "Sword Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3291,
     "name" : "knife",
     "type" : "Sword Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3292,
     "name" : "combat knife",
     "type" : "Sword Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3293,
     "name" : "sickle",
     "type" : "Axe Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3294,
@@ -4107,25 +4401,25 @@
     "client_id" : 3295,
     "name" : "bright sword",
     "type" : "Sword Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3296,
     "name" : "warlord sword",
     "type" : "Sword Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3297,
     "name" : "serpent sword",
     "type" : "Sword Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3298,
     "name" : "throwing knife",
     "type" : "Distance Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3299,
@@ -4137,31 +4431,31 @@
     "client_id" : 3300,
     "name" : "katana",
     "type" : "Sword Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3301,
     "name" : "broadsword",
     "type" : "Sword Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3302,
     "name" : "dragon lance",
     "type" : "Axe Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3303,
     "name" : "great axe",
     "type" : "Axe Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3304,
     "name" : "crowbar",
     "type" : "Tools",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3305,
@@ -4173,25 +4467,25 @@
     "client_id" : 3306,
     "name" : "golden sickle",
     "type" : "Axe Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3307,
     "name" : "scimitar",
     "type" : "Sword Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3308,
     "name" : "machete",
     "type" : "Tools",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3309,
     "name" : "thunder hammer",
     "type" : "Club Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3310,
@@ -4203,43 +4497,43 @@
     "client_id" : 3311,
     "name" : "clerical mace",
     "type" : "Club Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3312,
     "name" : "silver mace",
     "type" : "Club Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3313,
     "name" : "obsidian lance",
     "type" : "Axe Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3314,
     "name" : "naginata",
     "type" : "Axe Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3315,
     "name" : "guardian halberd",
     "type" : "Axe Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3316,
     "name" : "orcish axe",
     "type" : "Axe Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3317,
     "name" : "barbarian axe",
     "type" : "Axe Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3318,
@@ -4251,37 +4545,37 @@
     "client_id" : 3319,
     "name" : "stonecutter axe",
     "type" : "Axe Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3320,
     "name" : "fire axe",
     "type" : "Axe Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3321,
     "name" : "enchanted staff",
     "type" : "Club Weapons",
-    "version" : "8.1"
+    "version" : "6.6"
   },
   {
     "client_id" : 3322,
     "name" : "dragon hammer",
     "type" : "Club Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3323,
     "name" : "dwarven axe",
     "type" : "Axe Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3324,
     "name" : "skull staff",
     "type" : "Club Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3325,
@@ -4443,103 +4737,103 @@
     "client_id" : 3351,
     "name" : "steel helmet",
     "type" : "Helmets",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3352,
     "name" : "chain helmet",
     "type" : "Helmets",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3353,
     "name" : "iron helmet",
     "type" : "Helmets",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3354,
     "name" : "brass helmet",
     "type" : "Helmets",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3355,
     "name" : "leather helmet",
     "type" : "Helmets",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3356,
     "name" : "devil helmet",
     "type" : "Helmets",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3357,
     "name" : "plate armor",
     "type" : "Armors",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3358,
     "name" : "chain armor",
     "type" : "Armors",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3359,
     "name" : "brass armor",
     "type" : "Armors",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3360,
     "name" : "golden armor",
     "type" : "Armors",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3361,
     "name" : "leather armor",
     "type" : "Armors",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3362,
     "name" : "studded legs",
     "type" : "Legs",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3363,
     "name" : "dragon scale legs",
     "type" : "Legs",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3364,
     "name" : "golden legs",
     "type" : "Legs",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3365,
     "name" : "golden helmet",
     "type" : "Helmets",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3366,
     "name" : "magic plate armor",
     "type" : "Armors",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3367,
     "name" : "viking helmet",
     "type" : "Helmets",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3368,
@@ -4563,133 +4857,133 @@
     "client_id" : 3371,
     "name" : "knight legs",
     "type" : "Legs",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3372,
     "name" : "brass legs",
     "type" : "Legs",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3373,
     "name" : "strange helmet",
     "type" : "Helmets",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3374,
     "name" : "legion helmet",
     "type" : "Helmets",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3375,
     "name" : "soldier helmet",
     "type" : "Helmets",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3376,
     "name" : "studded helmet",
     "type" : "Helmets",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3377,
     "name" : "scale armor",
     "type" : "Armors",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3378,
     "name" : "studded armor",
     "type" : "Armors",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3379,
     "name" : "doublet",
     "type" : "Armors",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3380,
     "name" : "noble armor",
     "type" : "Armors",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3381,
     "name" : "crown armor",
     "type" : "Armors",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3382,
     "name" : "crown legs",
     "type" : "Legs",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3383,
     "name" : "dark armor",
     "type" : "Armors",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3384,
     "name" : "dark helmet",
     "type" : "Helmets",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3385,
     "name" : "crown helmet",
     "type" : "Helmets",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3386,
     "name" : "dragon scale mail",
     "type" : "Armors",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3387,
     "name" : "demon helmet",
     "type" : "Helmets",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3388,
     "name" : "demon armor",
     "type" : "Armors",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3389,
     "name" : "demon legs",
     "type" : "Legs",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3390,
     "name" : "horned helmet",
     "type" : "Helmets",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3391,
     "name" : "crusader helmet",
     "type" : "Helmets",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3392,
     "name" : "royal helmet",
     "type" : "Helmets",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3393,
@@ -4791,31 +5085,31 @@
     "client_id" : 3409,
     "name" : "steel shield",
     "type" : "Shields",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3410,
     "name" : "plate shield",
     "type" : "Shields",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3411,
     "name" : "brass shield",
     "type" : "Shields",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3412,
     "name" : "wooden shield",
     "type" : "Shields",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3413,
     "name" : "battle shield",
     "type" : "Shields",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3414,
@@ -4827,13 +5121,13 @@
     "client_id" : 3415,
     "name" : "guardian shield",
     "type" : "Shields",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3416,
     "name" : "dragon shield",
     "type" : "Shields",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3417,
@@ -4845,19 +5139,19 @@
     "client_id" : 3418,
     "name" : "bonelord shield",
     "type" : "Shields",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3419,
     "name" : "crown shield",
     "type" : "Shields",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3420,
     "name" : "demon shield",
     "type" : "Shields",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3421,
@@ -4869,37 +5163,37 @@
     "client_id" : 3422,
     "name" : "great shield",
     "type" : "Shields",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3423,
     "name" : "blessed shield",
     "type" : "Shields",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3424,
     "name" : "ornamented shield",
     "type" : "Shields",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3425,
     "name" : "dwarven shield",
     "type" : "Shields",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3426,
     "name" : "studded shield",
     "type" : "Shields",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3427,
     "name" : "rose shield",
     "type" : "Shields",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3428,
@@ -4911,43 +5205,43 @@
     "client_id" : 3429,
     "name" : "black shield",
     "type" : "Shields",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3430,
     "name" : "copper shield",
     "type" : "Shields",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3431,
     "name" : "viking shield",
     "type" : "Shields",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3432,
     "name" : "ancient shield",
     "type" : "Shields",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3433,
     "name" : "griffin shield",
     "type" : "Shields",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3434,
     "name" : "vampire shield",
     "type" : "Shields",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3435,
     "name" : "castle shield",
     "type" : "Shields",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3436,
@@ -5013,67 +5307,67 @@
     "client_id" : 3446,
     "name" : "bolt",
     "type" : "Ammunition",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3447,
     "name" : "arrow",
     "type" : "Ammunition",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3448,
     "name" : "poison arrow",
     "type" : "Ammunition",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3449,
     "name" : "burst arrow",
     "type" : "Ammunition",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3450,
     "name" : "power bolt",
     "type" : "Ammunition",
-    "version" : null
+    "version" : "6.6"
   },
   {
     "client_id" : 3451,
     "name" : "pitchfork",
     "type" : "Tools",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3452,
     "name" : "rake",
     "type" : "Tools",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3453,
     "name" : "scythe",
     "type" : "Club Weapons",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3454,
     "name" : "broom",
     "type" : "Tools",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3455,
     "name" : "hoe",
     "type" : "Tools",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3456,
     "name" : "pick",
     "type" : "Tools",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3457,
@@ -5085,91 +5379,91 @@
     "client_id" : 3459,
     "name" : "wooden hammer",
     "type" : "Tools",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3460,
     "name" : "hammer",
     "type" : "Tools",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3461,
     "name" : "saw",
     "type" : "Tools",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3462,
     "name" : "small axe",
     "type" : "Tools",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3463,
     "name" : "mirror",
     "type" : "Tools",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3464,
     "name" : "baking tray",
     "type" : "Kitchen Tools",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3465,
     "name" : "pot",
     "type" : "Fluid Containers",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3466,
     "name" : "pan",
     "type" : "Kitchen Tools",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3467,
     "name" : "fork",
     "type" : "Kitchen Tools",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3468,
     "name" : "spoon",
     "type" : "Kitchen Tools",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3469,
     "name" : "kitchen knife",
     "type" : "Kitchen Tools",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3470,
     "name" : "wooden spoon",
     "type" : "Kitchen Tools",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3471,
     "name" : "cleaver",
     "type" : "Kitchen Tools",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3472,
     "name" : "oven spatula",
     "type" : "Kitchen Tools",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3473,
     "name" : "rolling pin",
     "type" : "Kitchen Tools",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3474,
@@ -5229,7 +5523,7 @@
     "client_id" : 3483,
     "name" : "fishing rod",
     "type" : "Tools",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3484,
@@ -5265,7 +5559,7 @@
     "client_id" : 3506,
     "name" : "stamped letter",
     "type" : "Documents and Papers",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3507,
@@ -5277,103 +5571,103 @@
     "client_id" : 3509,
     "name" : "inkwell",
     "type" : "Tools",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3533,
     "name" : "black token",
     "type" : "Game Tokens",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3534,
     "name" : "white token",
     "type" : "Game Tokens",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3535,
     "name" : "white pawn token",
     "type" : "Game Tokens",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3536,
     "name" : "white castle token",
     "type" : "Game Tokens",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3537,
     "name" : "white knight token",
     "type" : "Game Tokens",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3538,
     "name" : "white bishop token",
     "type" : "Game Tokens",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3539,
     "name" : "white queen token",
     "type" : "Game Tokens",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3540,
     "name" : "white king token",
     "type" : "Game Tokens",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3541,
     "name" : "black pawn token",
     "type" : "Game Tokens",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3542,
     "name" : "black castle token",
     "type" : "Game Tokens",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3543,
     "name" : "black knight token",
     "type" : "Game Tokens",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3544,
     "name" : "black bishop token",
     "type" : "Game Tokens",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3545,
     "name" : "black queen token",
     "type" : "Game Tokens",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3546,
     "name" : "black king token",
     "type" : "Game Tokens",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3547,
     "name" : "x tic-tac-toe token",
     "type" : "Game Tokens",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3548,
     "name" : "o tic-tac-toe token",
     "type" : "Game Tokens",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3549,
@@ -5391,7 +5685,7 @@
     "client_id" : 3551,
     "name" : "sandals",
     "type" : "Boots",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3552,
@@ -5409,13 +5703,13 @@
     "client_id" : 3554,
     "name" : "steel boots",
     "type" : "Boots",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3555,
     "name" : "golden boots",
     "type" : "Boots",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3556,
@@ -5433,13 +5727,13 @@
     "client_id" : 3558,
     "name" : "chain legs",
     "type" : "Legs",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3559,
     "name" : "leather legs",
     "type" : "Legs",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3560,
@@ -5451,55 +5745,55 @@
     "client_id" : 3561,
     "name" : "jacket",
     "type" : "Armors",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3562,
     "name" : "coat",
     "type" : "Armors",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3563,
     "name" : "green tunic",
     "type" : "Armors",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3564,
     "name" : "red tunic",
     "type" : "Armors",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3565,
     "name" : "cape",
     "type" : "Armors",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3566,
     "name" : "red robe",
     "type" : "Armors",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3567,
     "name" : "blue robe",
     "type" : "Armors",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3568,
     "name" : "simple dress",
     "type" : "Armors",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3569,
     "name" : "white dress",
     "type" : "Armors",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3570,
@@ -5517,25 +5811,25 @@
     "client_id" : 3572,
     "name" : "scarf",
     "type" : "Amulets and Necklaces",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3573,
     "name" : "magician hat",
     "type" : "Helmets",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3574,
     "name" : "mystic turban",
     "type" : "Helmets",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3575,
     "name" : "wood cape",
     "type" : "Helmets",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3576,
@@ -5547,19 +5841,19 @@
     "client_id" : 3577,
     "name" : "meat",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3578,
     "name" : "fish",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3579,
     "name" : "salmon",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3580,
@@ -5577,7 +5871,7 @@
     "client_id" : 3582,
     "name" : "ham",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3583,
@@ -5589,19 +5883,19 @@
     "client_id" : 3584,
     "name" : "pear",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3585,
     "name" : "red apple",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3586,
     "name" : "orange",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3587,
@@ -5625,115 +5919,115 @@
     "client_id" : 3590,
     "name" : "cherry",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3591,
     "name" : "strawberry",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3592,
     "name" : "grapes",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3593,
     "name" : "melon",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3594,
     "name" : "pumpkin",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3595,
     "name" : "carrot",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3596,
     "name" : "tomato",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3597,
     "name" : "corncob",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3598,
     "name" : "cookie",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3599,
     "name" : "candy cane",
     "type" : "Food",
-    "version" : null
+    "version" : "7.4"
   },
   {
     "client_id" : 3600,
     "name" : "bread",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3601,
     "name" : "roll",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3602,
     "name" : "brown bread",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3603,
     "name" : "flour",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3604,
     "name" : "lump of dough",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3605,
     "name" : "bunch of wheat",
     "type" : "Plants and Herbs",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3606,
     "name" : "egg",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3607,
     "name" : "cheese",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3655,
     "name" : "moon flower",
     "type" : "Plants and Herbs",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3658,
@@ -5745,7 +6039,7 @@
     "client_id" : 3659,
     "name" : "blue rose",
     "type" : "Plants and Herbs",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3660,
@@ -5757,138 +6051,138 @@
     "client_id" : 3661,
     "name" : "grave flower",
     "type" : "Plants and Herbs",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3668,
     "name" : "tulip",
     "type" : "Plants and Herbs",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3673,
     "name" : "orange star",
     "type" : "Plants and Herbs",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3674,
     "name" : "goat grass",
     "type" : "Plants and Herbs",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3723,
     "name" : "white mushroom",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3724,
     "name" : "red mushroom",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3725,
     "name" : "brown mushroom",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3726,
     "name" : "orange mushroom",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3727,
     "name" : "wood mushroom",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3728,
     "name" : "dark mushroom",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3729,
     "name" : "some mushrooms",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3730,
     "name" : "some mushrooms",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3731,
     "name" : "fire mushroom",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3732,
     "name" : "green mushroom",
     "type" : "Food",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3734,
     "name" : "blood herb",
     "type" : "Plants and Herbs",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3735,
     "name" : "stone herb",
     "type" : "Creature Products",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3736,
     "name" : "star herb",
     "type" : "Creature Products",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3737,
     "name" : "fern",
     "type" : "Plants and Herbs",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3738,
     "name" : "sling herb",
     "type" : "Plants and Herbs",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3739,
     "name" : "powder herb",
     "type" : "Plants and Herbs",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3740,
     "name" : "shadow herb",
     "type" : "Plants and Herbs",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3741,
     "name" : "troll green",
     "type" : "Plants and Herbs",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 3997,
     "name" : "tibiora's box",
-    "type" : "Contest Prizes",
+    "type" : "Fansite Items",
     "version" : "8.6"
   },
   {
@@ -5930,20 +6224,20 @@
   {
     "client_id" : 4115,
     "name" : "phoenix statue",
-    "type" : "Contest Prizes",
+    "type" : "Fansite Items",
     "version" : "8.61"
   },
   {
     "client_id" : 4242,
     "name" : "skeleton",
     "type" : "Rubbish",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 4825,
     "name" : "pile of bones",
     "type" : "Containers",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 4827,
@@ -8343,7 +8637,7 @@
     "client_id" : 7879,
     "name" : "your student book",
     "type" : "Books",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 7882,
@@ -8924,19 +9218,19 @@
   {
     "client_id" : 8150,
     "name" : "key of numerous locks",
-    "type" : "Contest Prizes",
+    "type" : "Fansite Items",
     "version" : "8.2"
   },
   {
     "client_id" : 8151,
     "name" : "tibiahispano emblem",
-    "type" : "Contest Prizes",
+    "type" : "Fansite Items",
     "version" : "8.2"
   },
   {
     "client_id" : 8152,
     "name" : "the mexcalibur",
-    "type" : "Contest Prizes",
+    "type" : "Fansite Items",
     "version" : "8.2"
   },
   {
@@ -8960,7 +9254,7 @@
   {
     "client_id" : 8156,
     "name" : "abacus",
-    "type" : "Contest Prizes",
+    "type" : "Fansite Items",
     "version" : "8.2"
   },
   {
@@ -9056,7 +9350,7 @@
   {
     "client_id" : 8531,
     "name" : "blood goblet",
-    "type" : "Decorations",
+    "type" : "Valuables",
     "version" : "8.4"
   },
   {
@@ -9908,7 +10202,7 @@
   {
     "client_id" : 9189,
     "name" : "hand puppets",
-    "type" : "Contest Prizes",
+    "type" : "Fansite Items",
     "version" : "8.41"
   },
   {
@@ -10287,7 +10581,7 @@
     "client_id" : 9388,
     "name" : "holy icon",
     "type" : "Quest Items",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 9389,
@@ -10971,7 +11265,7 @@
     "client_id" : 10247,
     "name" : "weapons crate",
     "type" : "Quest Items",
-    "version" : "8.1"
+    "version" : "8.54"
   },
   {
     "client_id" : 10272,
@@ -11660,7 +11954,7 @@
   {
     "client_id" : 10477,
     "name" : "dragon goblet",
-    "type" : "Contest Prizes",
+    "type" : "Fansite Items",
     "version" : "8.54"
   },
   {
@@ -11672,20 +11966,20 @@
   {
     "client_id" : 10800,
     "name" : "orc's jaw shredder",
-    "type" : "Contest Prizes",
+    "type" : "Fansite Items",
     "version" : "8.55"
   },
   {
     "client_id" : 10817,
     "name" : "bag of oriental spices",
-    "type" : "Contest Prizes",
+    "type" : "Fansite Items",
     "version" : "8.55"
   },
   {
     "client_id" : 11010,
     "name" : "jade chair",
     "type" : "Furniture",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 11328,
@@ -12788,7 +13082,7 @@
   {
     "client_id" : 12041,
     "name" : "frozen heart",
-    "type" : "Contest Prizes",
+    "type" : "Fansite Items",
     "version" : "8.7"
   },
   {
@@ -12807,7 +13101,7 @@
     "client_id" : 12057,
     "name" : "reward box",
     "type" : "Quest Items",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 12077,
@@ -13143,7 +13437,7 @@
     "client_id" : 12477,
     "name" : "small golden taboret",
     "type" : "Furniture",
-    "version" : null
+    "version" : "?"
   },
   {
     "client_id" : 12478,
@@ -13574,13 +13868,13 @@
   {
     "client_id" : 12811,
     "name" : "imortus",
-    "type" : "Contest Prizes",
+    "type" : "Fansite Items",
     "version" : "9.1"
   },
   {
     "client_id" : 12813,
     "name" : "old radio",
-    "type" : "Contest Prizes",
+    "type" : "Fansite Items",
     "version" : "9.1"
   },
   {
@@ -14120,7 +14414,7 @@
   {
     "client_id" : 14672,
     "name" : "bolfrim's golden bug trophy",
-    "type" : null,
+    "type" : "?",
     "version" : "9.44"
   },
   {
@@ -14264,7 +14558,7 @@
   {
     "client_id" : 14762,
     "name" : "medusa skull",
-    "type" : "Contest Prizes",
+    "type" : "Fansite Items",
     "version" : "9.5"
   },
   {
@@ -14276,7 +14570,7 @@
   {
     "client_id" : 14766,
     "name" : "majestic shield",
-    "type" : "Contest Prizes",
+    "type" : "Fansite Items",
     "version" : "9.5"
   },
   {
@@ -14912,19 +15206,19 @@
   {
     "client_id" : 16262,
     "name" : "dragon eye",
-    "type" : "Contest Prizes",
+    "type" : "Fansite Items",
     "version" : "9.6"
   },
   {
     "client_id" : 16275,
     "name" : "noble sword",
-    "type" : null,
+    "type" : "?",
     "version" : "9.7"
   },
   {
     "client_id" : 16276,
     "name" : "noble sword",
-    "type" : null,
+    "type" : "?",
     "version" : "9.7"
   },
   {
@@ -15998,13 +16292,13 @@
   {
     "client_id" : 19397,
     "name" : "memory box",
-    "type" : "Contest Prizes",
+    "type" : "Fansite Items",
     "version" : "10.2"
   },
   {
     "client_id" : 19398,
     "name" : "memory box",
-    "type" : "Contest Prizes",
+    "type" : "Fansite Items",
     "version" : "10.2"
   },
   {
@@ -17054,7 +17348,7 @@
   {
     "client_id" : 21435,
     "name" : "black knight doll",
-    "type" : "Contest Prizes",
+    "type" : "Fansite Items",
     "version" : "10.52"
   },
   {
@@ -17066,7 +17360,7 @@
   {
     "client_id" : 21445,
     "name" : "war backpack",
-    "type" : "Contest Prizes",
+    "type" : "Fansite Items",
     "version" : "10.35"
   },
   {
@@ -17756,13 +18050,13 @@
   {
     "client_id" : 22151,
     "name" : "cateroide's doll",
-    "type" : "Contest Prizes",
+    "type" : "Fansite Items",
     "version" : "10.82"
   },
   {
     "client_id" : 22152,
     "name" : "cateroide's doll",
-    "type" : "Contest Prizes",
+    "type" : "Fansite Items",
     "version" : "10.82"
   },
   {
@@ -17910,12 +18204,6 @@
     "version" : "10.90"
   },
   {
-    "client_id" : 22519,
-    "name" : "fireheart hauberk",
-    "type" : "Armors",
-    "version" : "10.90"
-  },
-  {
     "client_id" : 22520,
     "name" : "fireheart platemail",
     "type" : "Armors",
@@ -17954,12 +18242,6 @@
   {
     "client_id" : 22526,
     "name" : "thunderheart platemail",
-    "type" : "Armors",
-    "version" : "10.90"
-  },
-  {
-    "client_id" : 22527,
-    "name" : "frostheart cuirass",
     "type" : "Armors",
     "version" : "10.90"
   },
@@ -19526,7 +19808,7 @@
   {
     "client_id" : 23512,
     "name" : "spying eye",
-    "type" : null,
+    "type" : "?",
     "version" : "10.94"
   },
   {
@@ -19879,6 +20161,12 @@
   },
   {
     "client_id" : 23734,
+    "name" : "ghostsilver lantern",
+    "type" : "Light Sources",
+    "version" : "11.02"
+  },
+  {
+    "client_id" : 23738,
     "name" : "ghostsilver lantern",
     "type" : "Light Sources",
     "version" : "11.02"
@@ -20660,8 +20948,8 @@
   {
     "client_id" : 25718,
     "name" : "temple teleport scroll",
-    "type" : null,
-    "version" : null
+    "type" : "?",
+    "version" : "?"
   },
   {
     "client_id" : 25720,
@@ -21836,7 +22124,7 @@
   {
     "client_id" : 26085,
     "name" : "goromaphone",
-    "type" : "Contest Prizes",
+    "type" : "Fansite Items",
     "version" : "11.40"
   },
   {
@@ -22220,7 +22508,7 @@
   {
     "client_id" : 27511,
     "name" : "the cube",
-    "type" : null,
+    "type" : "?",
     "version" : "11.50"
   },
   {
@@ -23762,13 +24050,13 @@
   {
     "client_id" : 30053,
     "name" : "dragon figurine",
-    "type" : "Decorations",
+    "type" : "Valuables",
     "version" : "12.00"
   },
   {
     "client_id" : 30054,
     "name" : "unicorn figurine",
-    "type" : "Decorations",
+    "type" : "Valuables",
     "version" : "12.00"
   },
   {
@@ -23876,7 +24164,7 @@
   {
     "client_id" : 30183,
     "name" : "crunor's heart",
-    "type" : "Contest Prizes",
+    "type" : "Fansite Items",
     "version" : "12.00"
   },
   {
@@ -24025,7 +24313,7 @@
   },
   {
     "client_id" : 30214,
-    "name" : "percht warding torch",
+    "name" : "percht-warding torch",
     "type" : "Quest Items",
     "version" : "12.02"
   },
@@ -24218,31 +24506,31 @@
   {
     "client_id" : 30318,
     "name" : "horseshoe",
-    "type" : null,
+    "type" : "?",
     "version" : "12.02"
   },
   {
     "client_id" : 30319,
     "name" : "golden horseshoe",
-    "type" : null,
+    "type" : "?",
     "version" : "12.02"
   },
   {
     "client_id" : 30320,
     "name" : "lucky pig",
-    "type" : null,
+    "type" : "?",
     "version" : "12.02"
   },
   {
     "client_id" : 30321,
     "name" : "fly agaric",
-    "type" : null,
+    "type" : "?",
     "version" : "12.02"
   },
   {
     "client_id" : 30322,
     "name" : "small ladybug",
-    "type" : null,
+    "type" : "?",
     "version" : "12.02"
   },
   {
@@ -24266,7 +24554,7 @@
   {
     "client_id" : 30337,
     "name" : "twig arms",
-    "type" : null,
+    "type" : "?",
     "version" : "12.02"
   },
   {
@@ -24535,7 +24823,7 @@
   },
   {
     "client_id" : 31333,
-    "name" : "tagralt nugged",
+    "name" : "tagralt nugget",
     "type" : "Quest Items",
     "version" : "12.20"
   },
@@ -24560,7 +24848,7 @@
   {
     "client_id" : 31339,
     "name" : "spiderweb clouds shreds",
-    "type" : null,
+    "type" : "?",
     "version" : "12.20"
   },
   {
@@ -24872,19 +25160,19 @@
   {
     "client_id" : 31573,
     "name" : "sun medal",
-    "type" : null,
+    "type" : "?",
     "version" : "12.20"
   },
   {
     "client_id" : 31574,
     "name" : "sunray emblem",
-    "type" : null,
+    "type" : "?",
     "version" : "12.20"
   },
   {
     "client_id" : 31575,
     "name" : "golden bijou",
-    "type" : null,
+    "type" : "?",
     "version" : "12.20"
   },
   {
@@ -25027,7 +25315,7 @@
   },
   {
     "client_id" : 31624,
-    "name" : "urmahlullu's paws",
+    "name" : "urmahlullu's paw",
     "type" : "Creature Products",
     "version" : "12.20"
   },
@@ -25058,13 +25346,13 @@
   {
     "client_id" : 31674,
     "name" : "omniscient owl",
-    "type" : "Contest Prizes",
+    "type" : "Fansite Items",
     "version" : "12.20"
   },
   {
     "client_id" : 31676,
     "name" : "note about two souls",
-    "type" : "Documents and Papers",
+    "type" : "Amulets and Necklaces",
     "version" : "12.20"
   },
   {
@@ -25236,9 +25524,453 @@
     "version" : "12.20"
   },
   {
+    "client_id" : 32043,
+    "name" : "bass",
+    "type" : "Food",
+    "version" : "12.20"
+  },
+  {
+    "client_id" : 32044,
+    "name" : "small bass",
+    "type" : "Food",
+    "version" : "12.20"
+  },
+  {
+    "client_id" : 32045,
+    "name" : "tiny bass",
+    "type" : "Food",
+    "version" : "12.20"
+  },
+  {
+    "client_id" : 32225,
+    "name" : "scalpel",
+    "type" : "Tools",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32226,
+    "name" : "purifier for lost souls",
+    "type" : "Tools",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32227,
+    "name" : "lost soul",
+    "type" : "Creature Products",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32228,
+    "name" : "purified soul",
+    "type" : "Creature Products",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32567,
+    "name" : "luminescent crystal",
+    "type" : "Quest Items",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32578,
+    "name" : "brain head's giant neuron",
+    "type" : "Creature Products",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32579,
+    "name" : "brain head's left hemisphere",
+    "type" : "Creature Products",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32580,
+    "name" : "brain head's right hemisphere",
+    "type" : "Creature Products",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32581,
+    "name" : "brain head's brain",
+    "type" : "Creature Products",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32582,
+    "name" : "death knell",
+    "type" : "Tools",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32583,
+    "name" : "skull coin",
+    "type" : "Quest Items",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32583,
+    "name" : "death toll",
+    "type" : "Quest Items",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32584,
+    "name" : "vial with a skull cork",
+    "type" : "Liquids",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32585,
+    "name" : "burial shroud",
+    "type" : "Armors",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32586,
+    "name" : "yarn",
+    "type" : "Quest Items",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32587,
+    "name" : "glittering yarn",
+    "type" : "Quest Items",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32589,
+    "name" : "angel figurine",
+    "type" : "Valuables",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32591,
+    "name" : "soulforged lantern",
+    "type" : "Light Sources",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32593,
+    "name" : "grimace",
+    "type" : "Creature Products",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32594,
+    "name" : "bloody tears",
+    "type" : "Creature Products",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32595,
+    "name" : "jagged sickle",
+    "type" : "Creature Products",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32596,
+    "name" : "dark bell",
+    "type" : "Creature Products",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32597,
+    "name" : "ravenous circlet",
+    "type" : "Creature Products",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32598,
+    "name" : "ensouled essence",
+    "type" : "Creature Products",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32598,
+    "name" : "pale worm's scalp",
+    "type" : "Creature Products",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32599,
+    "name" : "writhing heart",
+    "type" : "Creature Products",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32600,
+    "name" : "writhing brain",
+    "type" : "Creature Products",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32602,
+    "name" : "bone meal",
+    "type" : "Quest Items",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32603,
+    "name" : "grave flower extract",
+    "type" : "Liquids",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32616,
+    "name" : "phantasmal axe",
+    "type" : "Axe Weapons",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32617,
+    "name" : "fabulous legs",
+    "type" : "Legs",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32618,
+    "name" : "soulful legs",
+    "type" : "Legs",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32619,
+    "name" : "pair of nightmare boots",
+    "type" : "Boots",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32620,
+    "name" : "ghost backpack",
+    "type" : "Containers",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32621,
+    "name" : "ring of souls",
+    "type" : "Rings",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32622,
+    "name" : "giant amethyst",
+    "type" : "Valuables",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32623,
+    "name" : "giant topaz",
+    "type" : "Valuables",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32624,
+    "name" : "amber with a bug",
+    "type" : "Valuables",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32625,
+    "name" : "amber with a dragonfly",
+    "type" : "Valuables",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32626,
+    "name" : "amber",
+    "type" : "Valuables",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32628,
+    "name" : "ghost chestplate",
+    "type" : "Armors",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32629,
+    "name" : "spectral scrap of cloth",
+    "type" : "Taming Items",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32630,
+    "name" : "spooky hood",
+    "type" : "Helmets",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32631,
+    "name" : "ghost claw",
+    "type" : "Quest Items",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32632,
+    "name" : "raw eye of the chasm",
+    "type" : "Quest Items",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32633,
+    "name" : "eye of the chasm",
+    "type" : "Valuables",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32636,
+    "name" : "ring of souls",
+    "type" : "Rings",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32704,
+    "name" : "phantasmal hair",
+    "type" : "Creature Products",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32705,
+    "name" : "pair of old bracers",
+    "type" : "Armors",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32711,
+    "name" : "luminescent crystal pickaxe",
+    "type" : "Tools",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32724,
+    "name" : "spectral gold nugget",
+    "type" : "Creature Products",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32725,
+    "name" : "spectral silver nugget",
+    "type" : "Creature Products",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32746,
+    "name" : "santa leech",
+    "type" : "Dolls and Bears",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32758,
+    "name" : "mini nabbot",
+    "type" : "Fansite Items",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32759,
+    "name" : "mini nabbot",
+    "type" : "Fansite Items",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32769,
+    "name" : "white gem",
+    "type" : "Valuables",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32770,
+    "name" : "diamond",
+    "type" : "Valuables",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32771,
+    "name" : "moonstone",
+    "type" : "Valuables",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32772,
+    "name" : "silver hand mirror",
+    "type" : "Tools",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32773,
+    "name" : "ivory comb",
+    "type" : "Clothing Accessories",
+    "version" : "12.30"
+  },
+  {
+    "client_id" : 32774,
+    "name" : "cursed bone",
+    "type" : "Creature Products",
+    "version" : "12.30"
+  },
+  {
     "client_id" : 32777,
     "name" : "icicle",
     "type" : "Creature Products",
     "version" : "12.02"
+  },
+  {
+    "client_id" : 32790,
+    "name" : "baby polar bear",
+    "type" : "Decorations",
+    "version" : "12.30.9327"
+  },
+  {
+    "client_id" : 32914,
+    "name" : "papyrus deed",
+    "type" : "Decorations",
+    "version" : "12.31.9658"
+  },
+  {
+    "client_id" : 32915,
+    "name" : "bronze deed",
+    "type" : "Decorations",
+    "version" : "12.31.9658"
+  },
+  {
+    "client_id" : 32916,
+    "name" : "silver deed",
+    "type" : "Decorations",
+    "version" : "12.31.9658"
+  },
+  {
+    "client_id" : 32917,
+    "name" : "gold deed",
+    "type" : "Decorations",
+    "version" : "12.31.9658"
+  },
+  {
+    "client_id" : 32919,
+    "name" : "bronze cup",
+    "type" : "Decorations",
+    "version" : "12.31.9658"
+  },
+  {
+    "client_id" : 32920,
+    "name" : "silver cup",
+    "type" : "Decorations",
+    "version" : "12.31.9658"
+  },
+  {
+    "client_id" : 32921,
+    "name" : "gold cup",
+    "type" : "Decorations",
+    "version" : "12.31.9658"
+  },
+  {
+    "client_id" : 32925,
+    "name" : "golden crown",
+    "type" : "Helmets",
+    "version" : "12.31.9658"
+  },
+  {
+    "client_id" : 33331,
+    "name" : "bard doll",
+    "type" : "Fansite Items",
+    "version" : "12.31.9540"
   }
 ]
